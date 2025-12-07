@@ -18,3 +18,10 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 jupyter lab
+
+
+## 2) Project Planning — EDA & Stats (Data Understanding, Exploratory Data Analysis, Guiding questions, Statistical thinking)
+
+Objective
+
+Develop a foundational understanding of the data, assess quality.
