@@ -18,3 +18,24 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 jupyter lab
+
+
+# Insurance Risk Analysis - Task 3
+
+## 📋 Project Overview
+Statistical hypothesis testing to identify risk drivers for insurance segmentation.
+
+## 🎯 Task Objectives
+1. Test 4 hypotheses about risk factors
+2. Provide business recommendations
+3. Develop segmentation strategy
+
+## 🏗️ Project Structure
+See above for detailed structure.
+
+## 🚀 Setup Instructions
+
+### 1. Clone Repository
+```bash
+git clone <repository-url>
+cd insurance-risk-analysis
