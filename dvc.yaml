@@ -1,0 +1,8 @@
+stages:
+      process:
+        cmd: python src/process.py
+        deps:
+          - src/process.py
+          - Data/raw_data.txt
+        outs:
+         - Data/processed_data.txt    

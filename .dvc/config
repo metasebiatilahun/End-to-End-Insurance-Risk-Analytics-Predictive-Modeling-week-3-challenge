@@ -1,0 +1,4 @@
+[core]
+    remote = localstore
+['remote "localstore"']
+    url = C:\Users\HP\Downloads\Local_Storage
