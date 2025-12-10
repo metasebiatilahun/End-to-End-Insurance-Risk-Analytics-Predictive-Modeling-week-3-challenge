@@ -1,10 +1,7 @@
+
 Raw_Data.csv
 data
 # Virtual environment
 .venv/
-venv/
-env/
 
-# Compiled files
-__pycache__/
-*.pyc
+
